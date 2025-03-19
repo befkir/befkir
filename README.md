@@ -1,8 +1,10 @@
 <h1 >
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Befkir+Alemayehu!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Let's+Build+Something+big!;" />
 </h1>
 
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=befkir&layout=compact&theme=tokyonight)
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=befkir" alt="befkir" /></a>
+
 <!--
 **feshfaa/feshfaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
