@@ -3,6 +3,7 @@
 </h1>
 
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=befkir&layout=compact&theme=tokyonight)
+[![My Skills](https://skillicons.dev/icons?i=js,redux,npm,angular,react,nextjs,cs,dotnet,git,aws)](https://skillicons.dev)
 
 <!--
 **feshfaa/feshfaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
